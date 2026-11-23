@@ -84,7 +84,8 @@ Version 1.8.0
   - Tone
   - Tempo
 
-Version 1.9.0
+Version 1.9.1
 * Adding HTTP Settings Webpage to control the device from Smartphone/Laptop
 String dynamicUrl = "https://api.weatherapi.com/v1/current.json?key=" + String(WEATHER_API_KEY) + "&q=" + encodedCity + "&aqi=no";
-* Change Company name from Matomation to M2 Automations
+* Change Company name from Matomation to M2 Automations and also the Logo
+* Add new game Flappy Buddy.
